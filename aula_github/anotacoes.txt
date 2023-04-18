@@ -1,6 +1,55 @@
 comando gitHub
 
+Repositório Local
 git init
-git add
-git commit
+
+___________________________________________________________________________
+Verificar estados dos Arquivos 
+git status
+
+___________________________________________________________________________
+Adicionar arquivo/diretório
+git add meu_arquivo.txt
+
+Adicionar Diretorio em especifico
+git add meu_diretorio
+
+Adicionar todos Diretorio ou arquivos 
+git add *
+
+___________________________________________________________________________
+
+Comitar um arquivo / diretorio
+
+git commit meu_aquivo.txt
+
+Comitar Informando messagem
+
+git commit meu_arquivo.txt -m "minha messagem de commit"
+
+_________________________________________________________________________
+
+Visualizar Historico
+git log
+
+________________________________________________________________________
+Repositorio Remoto
+
+git remote
+
+vincular repositorio local com um repositorio remoto
+git remote add origin meu@github.com:meugit/repositorio
+
+atualizando repositorio local de acordo com repositorio remoto
+git pull
+
+______________________________________________________________________
+Clonando um repositorio
+
+git clone _url do repositorio a ser clonado
+
+
+
+
+
 
