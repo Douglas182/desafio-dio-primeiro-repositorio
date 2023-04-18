@@ -1,0 +1,6 @@
+comando gitHub
+
+git init
+git add
+git commit
+
